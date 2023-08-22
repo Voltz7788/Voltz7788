@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yannis</h1>
 <h3 align="center">A frontend developer from London, UK.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=voltz7788" alt="voltz7788" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yannismadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yannismadu" height="30" width="40" /></a>

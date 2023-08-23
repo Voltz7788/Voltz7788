@@ -38,8 +38,7 @@ Hello there! 👋🏾 Welcome to my Github! I'm a front-end developer, content c
 </br>
 </br>
 </br>
-</br>
-</br>
+
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-edqo40efx-voltz7788.vercel.app/api/spotify)](https://open.spotify.com/user/yannis.madu.777)

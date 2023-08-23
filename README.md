@@ -36,6 +36,6 @@
 </br>
 
 #
-### ✉️ Contact
-Email: yannismadu777@gmail.com
+### Contact
+✉️ Email: yannismadu777@gmail.com
 

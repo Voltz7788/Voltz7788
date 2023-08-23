@@ -24,7 +24,8 @@
 </br>
 </br>
 
-### Contact
+### ✉️ Contact
+Email: yannismadu777@gmail.com
 
 #
 ### ⚡ Github Stats

@@ -28,4 +28,5 @@ Hello there! 👋🏾 Welcome to my Github! I'm a front-end developer, content c
 ### ⚡ Github Stats
 <img align="left" alt="Yannis' Github Stats " src="https://github-readme-stats-6mi3-5z1qbgfes-voltz7788.vercel.app/api?username=voltz7788&show_icons=true"/>
 
-[![Spotify](https://yannis.madu.777.vercel.app/api/spotify)](https://open.spotify.com/user/yannis.madu.777)
+### Spotify Playing 🎧
+[<img src="https://novatorem-edqo40efx-voltz7788.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/yannis.madu.777)

@@ -2,7 +2,7 @@
 
 **`Front-end dev`**
 
-<p style="fontSize: 200px">Hello there! 👋🏾 Welcome to my Github! I'm a front-end developer, content creator and music producer. If I'm not at my PC coding, I'm either at the gym or in my room thinking about silly hypotheticals 🤔💭</p>
+<p style="fontSize:100">Hello there! 👋🏾 Welcome to my Github! I'm a front-end developer, content creator and music producer. If I'm not at my PC coding, I'm either at the gym or in my room thinking about silly hypotheticals 🤔💭</p>
 
 ---
 

@@ -24,8 +24,6 @@
 </br>
 </br>
 
-### ✉️ Contact
-Email: yannismadu777@gmail.com
 
 #
 ### ⚡ Github Stats
@@ -35,3 +33,9 @@ Email: yannismadu777@gmail.com
 
 ### 🎧 What I'm listening to
 [![Spotify](https://novatorem-edqo40efx-voltz7788.vercel.app/api/spotify)](https://open.spotify.com/user/yannis.madu.777)
+</br>
+
+#
+### ✉️ Contact
+Email: yannismadu777@gmail.com
+

@@ -27,7 +27,9 @@ Hello there! 👋🏾 Welcome to my Github! I'm a front-end developer, content c
 #
 ### ⚡ Github Stats
 <img align="left" alt="Yannis' Github Stats " src="https://github-readme-stats-6mi3-5z1qbgfes-voltz7788.vercel.app/api?username=voltz7788&show_icons=true"/>
-https://camo.githubusercontent.com/66ef63f465991d5c22f0284a58916f66ed9a194065db5a4dc154c79bdaf85650/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d766f6c747a3737383826
+<img src="https://camo.githubusercontent.com/66ef63f465991d5c22f0284a58916f66ed9a194065db5a4dc154c79bdaf85650/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d766f6c747a3737383826"/>
+
+
 
 </br>
 </br>

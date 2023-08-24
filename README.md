@@ -1,8 +1,8 @@
-# Hi, I'm Yannis! 😊
+# Hi, I'm Yannis! 👋
 
 **`Front-end dev`**
 
-<p>Hello there! 👋🏾 Welcome to my Github! I'm a front-end developer, content creator and musician. If I'm not at my PC coding, I'm either at the gym or somewhere thinking about silly hypotheticals 🤔💭</p>
+<p>Hello there! 😊 Welcome to my Github! I'm a front-end developer, content creator and musician. If I'm not at my PC coding, I'm either at the gym or somewhere thinking about silly hypotheticals 🤔💭</p>
 
 ---
 

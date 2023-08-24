@@ -1,4 +1,4 @@
-# Yannis Madu
+# Hi, I'm Yannis! 😊
 
 **`Front-end dev`**
 
